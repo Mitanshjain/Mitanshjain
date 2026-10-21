@@ -71,7 +71,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mitanshjain&bg_color=0a0e1a&color=22d3ee&line=a78bfa&point=f472b6&area=true&area_color=a78bfa&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph"/>
+
 
 <br/>
 
